@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <title>LeVendeur.tg - Magloire</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>LeVendeur.tg</h1>
+    <p>Vente de véhicules, camions, tracteurs et engins</p>
+  </header>
+
+  <main>
+    <section class="image">
+      <img src="engin.jpg" alt="Engin à vendre">
+    </section>
+
+    <section class="info">
+      <h2>À propos</h2>
+      <p>Bienvenue chez Magloire ! Nous proposons une large gamme de véhicules et engins robustes pour vos besoins professionnels.</p>
+    </section>
+
+    <section class="contact">
+      <h2>Contact</h2>
+      <p>Téléphone : <a href="tel:+22870215614">+228 70 21 56 14</a></p>
+      <p>TikTok : <a href="https://www.tiktok.com/@levendeur" target="_blank">@levendeur 🇹🇬</a></p>
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy; 2025 LeVendeur.tg - Magloire</p>
+  </footer>
+</body>
+</html>
